@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @smikkelbakje
-- 👀 I’m interested in 
-- 🌱 I’m currently learning garbage
+insert random shit about me here
 
 <!---
 smikkelbakje/smikkelbakje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
